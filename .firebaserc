@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "eduo-9a84c"
+  },
+  "targets": {
+    "eduo-9a84c": {
+      "hosting": {
+        "app": [
+          "eduo-9a84c"
+        ]
+      }
+    }
+  }
+}
